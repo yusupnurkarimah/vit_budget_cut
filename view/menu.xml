@@ -1,0 +1,5 @@
+<odoo>
+	<data>
+		<menuitem id="vit_budget_cut_sub_menu" name="Add/ Cut Budget" sequence="40" parent="vit_budget.menu_budget_user" web_icon="vit_budget_cut,static/description/icon.png" />
+	</data>
+</odoo>
